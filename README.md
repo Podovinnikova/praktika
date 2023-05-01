@@ -1,5 +1,4 @@
 # praktika
- "Hello, World!"
-
+"Hello, World! from VIVT"
 
 Hello - Nothingleftnot 
