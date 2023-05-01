@@ -1,5 +1,5 @@
 # praktika
- "Hello, Angels IT!"
+ "Hello, World!"
 
 
 Hello - Nothingleftnot 
