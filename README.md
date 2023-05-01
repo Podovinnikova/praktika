@@ -1,1 +1,2 @@
 # praktika
+ "Hello, World!"
